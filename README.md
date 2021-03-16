@@ -8,4 +8,4 @@ https://kotalilyy.github.io/git-it-done/
 
 ## Screenshot
 
-![Screen Shot 2021-03-16 at 11 17 54 AM](https://user-images.githubusercontent.com/77229281/111343484-78a8e000-8649-11eb-8e16-4c84d0afa41c.png)
+![Screen Shot 2021-03-16 at 3 45 18 PM](https://user-images.githubusercontent.com/77229281/111377504-b8ce8980-866e-11eb-8482-e0cc9cfdd230.png)
