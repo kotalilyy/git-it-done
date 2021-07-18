@@ -1,8 +1,10 @@
 # Git It Done
 
+## Description
+
 A web app that will search GitHub for open source projects with open issues and pull requests.
 
-## Usage
+## Live Link
 
 [live link](https://kotalilyy.github.io/git-it-done/)
 
